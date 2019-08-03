@@ -34,67 +34,11 @@ code {
     overflow: auto;    
 }
 
-.image1 {
-    background-image: url("../images/technics-q-c-300-200-1.jpg");
-    background-repeat: no-repeat;
-    background-size: 300px 200px;
-    width: 300px;
-    height: 200px;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    float: left;
+#bioImage {
+    max-width: 100%;
+    height: auto;
 }
 
-.image2 {
-    background-image: url("../images/technics-q-c-300-200-2.jpg");
-    background-repeat: no-repeat;
-    background-size: 300px 200px;
-    width: 300px;
-    height: 200px;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    float: left;
-}
-
-.image3 {
-    background-image: url("../images/technics-q-c-300-200-3.jpg");
-    background-repeat: no-repeat;
-    background-size: 300px 200px;
-    width: 300px;
-    height: 200px;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    float: left;
-}
-
-.image4 {
-    background-image: url("../images/technics-q-c-300-200-4.jpg");
-    background-repeat: no-repeat;
-    background-size: 300px 200px;
-    width: 300px;
-    height: 200px;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    float: left;
-}
-
-.image5 {
-    background-image: url("../images/technics-q-c-300-200-9.jpg");
-    background-repeat: no-repeat;
-    background-size: 300px 200px;
-    width: 300px;
-    height: 200px;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    float: left;
-}
-
-.imgtext {
-    background-color: #4aaaa5;
-    width: 300px;
-    height: 50px;
-    margin-top: 140px;
-}
 @media (min-width: 768px) {
     .bd-placeholder-img-lg {
     font-size: 3.5rem;
